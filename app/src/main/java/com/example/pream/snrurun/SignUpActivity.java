@@ -49,6 +49,7 @@ public class SignUpActivity extends AppCompatActivity {
             MyAlert myAlert = new MyAlert();
             myAlert.myDialog(this, "มีช่องว่าง", "กรุณากรอกทุกช่องค่ะ");
         } else {
+
         }
     }
 }  //Main Class
